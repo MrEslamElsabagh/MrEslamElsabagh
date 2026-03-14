@@ -4,8 +4,8 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
+
+  </div>
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
